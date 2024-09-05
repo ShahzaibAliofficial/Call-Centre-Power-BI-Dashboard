@@ -1,5 +1,4 @@
 # Call-Centre-Dashboard
-Call Centre Analysis Dashboard Using Power BI
 ![Call Center Dashboard](https://github.com/user-attachments/assets/2c436d3d-e31a-4014-b70c-b1015e0b2f95)
 ### Project Title: Call Center Performance Dashboard
 
